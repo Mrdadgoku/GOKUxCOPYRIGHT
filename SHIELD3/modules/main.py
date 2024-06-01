@@ -17,36 +17,36 @@ from pyrogram.errors import FloodWait
 
 
 NYKAA = [
-    "https://graph.org/file/9bba2b7ee9ba3806de65d.jpg",
-    "https://graph.org/file/ef82f289043a4fa74f8ff.jpg",
-    "https://graph.org/file/9c27c68958e06ae074c38.jpg",
-    "https://graph.org/file/0ff325b1d2efe80299aa3.jpg",
-    "https://graph.org/file/41167b953cf3579853d47.jpg",
-    "https://graph.org/file/bd93ab42e69305f274028.jpg",
-    "https://graph.org/file/97575db5586c05d6b2898.jpg",
-    "https://graph.org/file/07c393fdf931a407c9bc0.jpg",
-    "https://graph.org/file/f332767490ad3a5ca20e8.jpg",
-    "https://graph.org/file/f3449e9069667f647d14e.jpg",
-    "https://graph.org/file/9f51cdc739f907cbd2c7e.jpg",
-    "https://telegra.ph/file/d7a6a923c38e051ce35f3.jpg",
-    "https://graph.org/file/f86b71018196c5cfe7344.jpg",
-    "https://graph.org/file/a3db9af88f25bb1b99325.jpg",
-    "https://graph.org/file/5b344a55f3d5199b63fa5.jpg",
-    "https://graph.org/file/84de4b440300297a8ecb3.jpg",
-    "https://graph.org/file/84e84ff778b045879d24f.jpg",
-    "https://graph.org/file/a4a8f0e5c0e6b18249ffc.jpg",
-    "https://graph.org/file/ed92cada78099c9c3a4f7.jpg",
-    "https://graph.org/file/d6360613d0fa7a9d2f90b.jpg",
-    "https://graph.org/file/37248e7bdff70c662a702.jpg",
-    "https://graph.org/file/0bfe29d15e918917d1305.jpg",
-    "https://graph.org/file/16b1a2828cc507f8048bd.jpg",
-    "https://graph.org/file/e6b01f23f2871e128dad8.jpg",
-    "https://graph.org/file/cacbdddee77784d9ed2b7.jpg",
-    "https://graph.org/file/ddc5d6ec1c33276507b19.jpg",
-    "https://graph.org/file/39d7277189360d2c85b62.jpg",
-    "https://graph.org/file/5846b9214eaf12c3ed100.jpg",
-    "https://graph.org/file/ad4f9beb4d526e6615e18.jpg",
-    "https://graph.org/file/3514efaabe774e4f181f2.jpg",    
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",
+    "https://graph.org/file/9c5d0138224bd25f91d73.jpg",    
 ]
 
 
@@ -76,16 +76,16 @@ async def start(_, msg):
 
 gd_buttons = [              
         [
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/THE_FRIENDZ"),    
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/GOKUxEDITION"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/BEST_FRIEND_FOREVER1230"),    
         ]
         ]
 # ------------------------------------------------------------------------------- #
 
 ROY_BTN = [              
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),    
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/GOKUxEDITION"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/BEST_FRIEND_FOREVER1230"),    
         ]
 ]
 # ------------------------------------------------------------------------------- #
@@ -129,7 +129,7 @@ ABOUT_STRING = """**❖ ɪ ʜᴀᴠᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ɢʀ�
 
 # -------------------------------------------------------------------------------------
 
-HELP_STRING = """**❖ ᴏᴡɴᴇʀ/sᴜᴅᴏ ᴜsᴇʀ ᴄᴍᴅs ⏤͟͟͞͞★\n\n● /bcast ➥ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ.\n● /announce ➥ ʀᴇᴘʟʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀɴɴᴏᴜɴᴄᴇ.\n\n❖ ᴀʟʟ ᴜsᴇʀs  ᴄᴏᴍᴍᴀɴᴅs ⏤͟͟͞͞★\n\n● /start ➥ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.\n● /ping ➥ ᴄʜᴋ ʙᴏᴛ ᴘɪɴɢ sᴛᴀᴛs.\n● /repo ➥ ɢᴇᴛ ʙᴏᴛ ʀᴇᴘᴏ.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥  ʀ ᴏ ʏ - ᴇ ᴅ ɪ ᴛ x ࿐**"""
+HELP_STRING = """**❖ ᴏᴡɴᴇʀ/sᴜᴅᴏ ᴜsᴇʀ ᴄᴍᴅs ⏤͟͟͞͞★\n\n● /bcast ➥ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ.\n● /announce ➥ ʀᴇᴘʟʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀɴɴᴏᴜɴᴄᴇ.\n\n❖ ᴀʟʟ ᴜsᴇʀs  ᴄᴏᴍᴍᴀɴᴅs ⏤͟͟͞͞★\n\n● /start ➥ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.\n● /ping ➥ ᴄʜᴋ ʙᴏᴛ ᴘɪɴɢ sᴛᴀᴛs.\n● /repo ➥ ɢᴇᴛ ʙᴏᴛ ʀᴇᴘᴏ.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥  𝐆Ⓞ𝐊𝐔 𝐗 𝐄𝐝𝐢𝐭𝐢𝐨𝐧**"""
 
 # ------------------------------------------------------------------------------- #
 
@@ -153,20 +153,20 @@ REPO_STRING = """**
 
 ● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴄᴏᴘʏʀɪɢʜᴛ sʜɪᴇʟᴅ ʙᴏᴛ ⚡ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ʀ ᴏ ʏ - ᴇ ᴅ ɪ ᴛ x ❅
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ 𝐆Ⓞ𝐊𝐔 𝐗 𝐄𝐝𝐢𝐭𝐢𝐨𝐧 ❅
 """
 
 @app.on_message(filters.command("repo"))
 async def start(_, msg):
     REPO_BTN = [
         [
-          InlineKeyboardButton("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/tinaarobot/COPYRIGHT"),
+          InlineKeyboardButton("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/Mrdadgoku/GOKUxCOPYRIGHT/actions"),
           ],
     ]
     
     reply_markup = InlineKeyboardMarkup(REPO_BTN)
     
-    await msg.reply_photo(photo="https://telegra.ph/file/feb8ec9cd6194018ccc4c.jpg", caption=REPO_STRING,reply_markup=reply_markup
+    await msg.reply_photo(photo="https://graph.org/file/9c5d0138224bd25f91d73.jpg", caption=REPO_STRING,reply_markup=reply_markup
                          )
 
 
@@ -205,7 +205,7 @@ async def activevc(_, message: Message):
         f"● ᴜsᴇᴅ ➥ {size_formatter(storage.used)}\n"
         f"● ғʀᴇᴇ ➥ {size_formatter(storage.free)}\n"
         f"● ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➥ {python_version}\n\n"
-        f"❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥  ʀ ᴏ ʏ - ᴇ ᴅ ɪ ᴛ x ࿐"
+        f"❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥  𝐆Ⓞ𝐊𝐔 𝐗 𝐄𝐝𝐢𝐭𝐢𝐨𝐧"
     )
 
     await message.reply(reply_text, reply_markup=InlineKeyboardMarkup(EVAA), quote=True)
