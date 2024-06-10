@@ -14,7 +14,7 @@ async def roy_bot():
     print("♥︎ B𝗈𝗍 Started Successfully.")
     await idle()
     print("♥︎ Don't edit baby, otherwise you get an error. @GOKUxEDITION")
-    await SHIELD3.send_message(LOGGER_ID, "**✦ ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ.\n\n✦ ᴊᴏɪɴ - @BEST_FRIEND_FOREVER1230**")
+    await SHIELD3.send_message(LOGGER_ID, "**✦ ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ.\n\n✦ ᴊᴏɪɴ - https://t.me/+GRoGjVJo-Xg3YjU1**")
 
 if __name__ == "__main__":
     loop.run_until_complete(roy_bot())
