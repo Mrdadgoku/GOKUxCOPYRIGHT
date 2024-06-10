@@ -4,7 +4,7 @@ from pyrogram import idle
 from SHIELD3 import SHIELD3
 from SHIELD3.modules import ALL_MODULES
 
-LOGGER_ID = -1001891687243
+LOGGER_ID = -1001795546170
 
 loop = asyncio.get_event_loop()
 
